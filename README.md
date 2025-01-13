@@ -8,3 +8,4 @@ The data is pulled from a make belive automotive comapny then process and sorted
 an assorment of graphs. The graphs are utilzed in an interactive dahsbpard format to mimic how a data scientist might present a project to
 a group of shareholder in a conference or meeting. Some of the graphs are meant to focus on what might be an underlying cause for varations in 
 automobile sales. 
+![Dashboard](https://github.com/user-attachments/assets/862c860d-0ce3-4cb9-bbef-c8729b3fa333)
