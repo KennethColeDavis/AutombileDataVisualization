@@ -10,5 +10,5 @@ The application allows users to explore sales patterns through graphs such as li
 After running the program there should be a pop up in the termina you can copy.
 ![1CD70A64-FB08-4CBC-BF04-2CDBE816A940_1_201_a](https://github.com/user-attachments/assets/86eb00b7-24b4-4c3c-8b3a-04e290ab405e)
 
-Then paste the URL into a browser and the dashboard will appear where you can use the interactive dashboard
+Then paste the URL into a browser and the dashboard will appear where you can use the interactive dashboard.
 ![D391246E-0D6D-4091-814B-AFFB72B97D3B_1_105_c](https://github.com/user-attachments/assets/0ffc71e4-3351-4563-bfcb-1f0cb0d0e5be)
