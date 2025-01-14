@@ -1,4 +1,4 @@
-# DataVisualization
+# Automobile Sales Data Analysation and Dashboard
 Dashboard for an Automotive Company
 
 I completed the IBM Data Visualization with Pyhton course and this is the final project that I did for the course.
